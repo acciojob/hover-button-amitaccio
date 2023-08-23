@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 #btn>button{
 	background-color: black;
-	font-color:white;
+	color:rgb(0, 0, 0);
 	border-radius: 5px;
 	border: none;
 	
